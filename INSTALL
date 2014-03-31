@@ -1,0 +1,9 @@
+Building mimicoin
+
+See doc/readme-qt.rst for instructions on building mimicoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of mimicoin.
+
+See doc/build-*.txt for instructions on building mimicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of mimicoin.
