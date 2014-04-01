@@ -34,9 +34,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("MMC");
-    case mBTC: return QString("mMMC");
-    case uBTC: return QString::fromUtf8("uMMC");
+    case BTC: return QString("MIMI");
+    case mBTC: return QString("mMIMI");
+    case uBTC: return QString::fromUtf8("uMIMI");
     default: return QString("???");
     }
 }
